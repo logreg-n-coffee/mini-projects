@@ -1,4 +1,4 @@
-# Project: Predicting Party Affiliation using KNN (binary classification)
+# Project: Predicting Party Affiliation: A Binary Classification with KNN
 # Dataset: https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
 # to predict US House of Representatives Congressmen's party affiliation ('Democrat' or 'Republican') 
 # based on how they voted on certain key issues

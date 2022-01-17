@@ -1,4 +1,4 @@
-# Project: Clustering Wikipedia Articles and Titles based on a Given TD-IDF Array in CSR Matrix Format with KMeans
+# Project: Clustering Wikipedia Articles and Titles based on a Given TD-IDF Array in CSR Matrix Format with K-Means
 # Dataset: https://www.lateral.io/resources-blog/the-unknown-perils-of-mining-wikipedia
 # Goal: to cluster different Wikipedia articles
 

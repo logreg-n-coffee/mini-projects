@@ -1,6 +1,6 @@
-# Project: PIMA Indian Diabetes Classification using KNN (binary classification)
+# Project: Predicting whether a given Pima Indian will have diabetes: A Binary Classification with KNN
 # Dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
-# Goal: to predict whether or not a given female patient will contract diabetes  based on features such as BMI, age, and so on
+# Goal: to predict whether or not a given female patient will contract diabetes based on features such as BMI, age, and so on
 
 # Import necessary modules
 import pandas as pd

@@ -1,4 +1,4 @@
-# Project: Life Expectancy Prediction (linear regression)
+# Project: Life Expectancy Prediction with Linear Regression
 # Dataset: https://www.gapminder.org/data/
 # Goal: to predict the life expectancy in a given country using Gapminder data.
 

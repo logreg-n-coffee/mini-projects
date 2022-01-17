@@ -1,4 +1,4 @@
-# Project: Clustering Fish using K-Means Clutstering 
+# Project: Clustering Fish Species using K-Means 
 # Dataset: http://jse.amstat.org/jse_data_archive.htm
 # Goal: to cluster the fish according to species
 

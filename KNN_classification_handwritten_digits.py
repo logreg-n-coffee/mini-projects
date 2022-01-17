@@ -1,4 +1,4 @@
-# Project: Predicting Handwritten Digits (multi-class classification)
+# Project: Predicting Handwritten Digits: A Multi-Class Classification with K-Nearest Neighbors (KNN)
 # Dataset: MNIST - http://yann.lecun.com/exdb/mnist/
 # Goal: predict handwritten digits
 

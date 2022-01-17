@@ -1,4 +1,4 @@
-# Project: PIMA Indian Diabetes Classification using Logistic Regression (binary classification)
+# Project: Pima Indian Diabetes Classification with Logistic Regression (binary classification)
 # Dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 # Goal: 1) # Goal: to predict whether or not a given female patient will contract diabetes based on features such as BMI, age...
 # 2) fine-tuning the model 

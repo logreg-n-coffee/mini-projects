@@ -1,4 +1,4 @@
-# Project: Variance of the PCA features in the fish dataset
+# Project: Variance of the PCA Features in Fish Species
 # Dataset: http://jse.amstat.org/jse_data_archive.htm
 # Goal: 1) to find the intrinsic dimensions of the fish dataset 2) to use PCA for dimensionality reduction of the fish measurements, 
 # retaining only the 2 most important components.

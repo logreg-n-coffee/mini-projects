@@ -1,4 +1,4 @@
-# Project: Latent semantic analysis (LSA) visualization with Singular Value Decomposition (SVD)
+# Project: Latent Semantic Analysis (LSA) Visualization with Singular Value Decomposition (SVD)
 # Goal: to conduct singular value decomposition of the text and visualize latent semantic analysis
 # Reference: https://sharmaji27.medium.com/singular-value-decomposition-with-source-code-easiest-way-54ea6823a5e8
 

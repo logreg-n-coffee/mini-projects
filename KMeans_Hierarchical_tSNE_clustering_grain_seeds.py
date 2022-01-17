@@ -1,4 +1,4 @@
-# Project: Clustering Grains using K-Means Clutstering and Hierarchical Clustering
+# Project: Clustering Grain Seeds using K-Means, Hierarchical Clustering, and t-SNE
 # Dataset: https://archive.ics.uci.edu/ml/datasets/seeds
 # Goal: 1) to cluster the grain seeds and finetune the hyperparameter K 2) Hierarchical Clustering 3) t-SNE visualization
 
